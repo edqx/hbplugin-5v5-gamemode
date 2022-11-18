@@ -1,0 +1,1 @@
+# hbplugin-team-gamemode
